@@ -1,0 +1,7 @@
+{
+  "body": "{\"userId\":\"u_001\",\"virtualCardId\":\"REPLACE_ME\",\"paymentMethodId\":2}",
+  "headers": { "Content-Type": "application/json" },
+  "httpMethod": "POST",
+  "path": "/virtual-card/payment",
+  "isBase64Encoded": false
+}

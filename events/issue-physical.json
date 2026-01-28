@@ -1,0 +1,7 @@
+{
+  "body": "{\"userId\":\"u_001\",\"virtualCardId\":\"REPLACE_ME\"}",
+  "headers": { "Content-Type": "application/json" },
+  "httpMethod": "POST",
+  "path": "/physical-card/issue",
+  "isBase64Encoded": false
+}

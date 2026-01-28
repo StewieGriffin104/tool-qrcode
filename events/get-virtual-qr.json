@@ -1,0 +1,9 @@
+{
+  "queryStringParameters": {
+    "userId": "u_001",
+    "virtualCardId": "REPLACE_ME"
+  },
+  "httpMethod": "GET",
+  "path": "/virtual-card/qr",
+  "isBase64Encoded": false
+}
